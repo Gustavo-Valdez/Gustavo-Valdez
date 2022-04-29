@@ -37,9 +37,6 @@
   <a href="https://twitter.com/GusVlz3134">
     <img alt="Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:gusgus3134@outlook.com">
-    <img alt="Mail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a> &nbsp;&nbsp;
 
 
 
