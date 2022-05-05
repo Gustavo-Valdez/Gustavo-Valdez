@@ -1,5 +1,7 @@
 <h1 align="center"> Hello, I'm Gus 👋 </h1>
 
+![Web developer](https://user-images.githubusercontent.com/86739150/167035798-2991bfd8-9075-4dd8-ac8d-8e960053dbcd.png)
+
 ### Skills and Languages
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
