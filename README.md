@@ -2,6 +2,50 @@
 
 ![Web developer](https://user-images.githubusercontent.com/86739150/167035798-2991bfd8-9075-4dd8-ac8d-8e960053dbcd.png)
 
+```js
+import React from 'react'
+import { useState } from 'react'
+const Dapier = () => {
+    const [me, setMe] = useState(
+        {
+            name: 'Gustavo Valdez',
+            hobbies: ['Studying', 'Coding','Going to the Gym', 'Listening to Music'],
+            tools: ['Windows', 'Linux', 'Github', 'Git', 'Adobe XD', 'Figma'],
+            skills: ['compromise ', 'motivation ', 'adaptability ', 'Listening ']   
+        }
+    )
+    console.log(me);
+  return (
+    <div>
+        <h1>
+            Hi im {me.name}
+        </h1>
+        <span>I usually do in my days:</span>
+        <p>{me.hobbies}</p>
+        <h3>What tools i use</h3>
+        <ul>
+            {me.tools.map((item,i) =>
+                <li key={i}>
+                    <span>{item}</span>
+                </li>
+            )}
+        </ul>
+        <h3>My skills</h3>
+        <ul>
+            {me.skills.map((item,i) =>
+                <li key={i}>
+                    <span>{item}</span>
+                </li>
+            )}
+        </ul>
+    </div>
+  )
+}
+
+export default Gus
+
+```
+
 ### Skills and Languages
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,8 +83,3 @@
   <a href="https://twitter.com/GusVlz3134">
     <img alt="Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> &nbsp;&nbsp;
-
-
-
-
-
