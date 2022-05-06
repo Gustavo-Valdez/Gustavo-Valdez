@@ -2,6 +2,11 @@
 
 ![Web developer](https://user-images.githubusercontent.com/86739150/167035798-2991bfd8-9075-4dd8-ac8d-8e960053dbcd.png)
 
+### About me
+  - I'm studying Software Engineer at UANL
+  - Traveler in innovaccion virtual
+  - Explorer in Launch X
+
 ```js
 import React from 'react'
 import { useState } from 'react'
@@ -66,7 +71,6 @@ export default Gus
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-f4ba1c?style=for-the-badge&logo=microsoft&logoColor=black) <a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=414&cvid=fXqTGwDpWdE9GK7wUGI4Gg==">Certified for Azure Fundamentals (AZ 900) </a>
 
-
 ### Technologies I like to use
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![CSS Badge](https://img.shields.io/badge/-css3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=264de4)](#)
@@ -74,12 +78,14 @@ export default Gus
 | <a href="https://github.com/Gustavo-Valdez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Valdez&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gus github stats" /></a> | <a href="https://github.com/Gustavo-Valdez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Valdez&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | 
 
-<div align="center">
 
-  <br>
-  <a href="https://www.linkedin.com/in/gamv/">
+<h3 align="center">Contact Me</h3>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/gamv">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp;&nbsp;
+  </a>
   <a href="https://twitter.com/GusVlz3134">
     <img alt="Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> &nbsp;&nbsp;
+  </a>
+</div
+    
