@@ -4,7 +4,7 @@
 
 ### About me
   - I'm studying Software Engineer at UANL
-  - Traveler in innovaccion virtual
+  - Traveler in Innovaccion Virtual
   - Explorer in Launch X
 
 ```js
