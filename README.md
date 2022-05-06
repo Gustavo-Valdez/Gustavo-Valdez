@@ -10,7 +10,7 @@
 ```js
 import React from 'react'
 import { useState } from 'react'
-const Dapier = () => {
+const Gus = () => {
     const [me, setMe] = useState(
         {
             name: 'Gustavo Valdez',
