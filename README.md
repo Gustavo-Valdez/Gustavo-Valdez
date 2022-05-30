@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Gus 👋 </h1>
 
-![Web developer](https://user-images.githubusercontent.com/86739150/171060785-b445044a-3f62-442e-9bd3-6d9fd8c8e535.png)
+![Web developer](https://user-images.githubusercontent.com/86739150/171061256-aac43a45-e831-436d-9d0a-262ca1d7074a.png)
 
 ### About me
   - I'm studying Software Engineer at UANL
