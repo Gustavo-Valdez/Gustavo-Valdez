@@ -15,7 +15,7 @@ const Gus = () => {
         {
             name: 'Gustavo Valdez',
             hobbies: ['Studying', 'Coding','Going to the Gym', 'Listening to Music'],
-            tools: ['Windows', 'Linux', 'Github', 'Git', 'Adobe XD', 'Figma'],
+            tools: ['Windows', 'Linux', 'Github', 'Git', 'Figma'],
             skills: ['compromise ', 'motivation ', 'adaptability ', 'Listening ']   
         }
     )
