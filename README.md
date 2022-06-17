@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Gustavo👋 </h1>
+<h1 align="center"> Hello, I'm Gus👋 </h1>
 
 ![Web developer](https://user-images.githubusercontent.com/86739150/171060785-b445044a-3f62-442e-9bd3-6d9fd8c8e535.png)
 
