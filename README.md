@@ -6,7 +6,16 @@
   - I'm studying Software Engineer at UANL
   - Traveler in Innovaccion Virtual
   - Explorer in Launch X
+<h1 align="center">🚧 En mantenimiento 🚧</h1>
 
+<p align="center">
+  Estoy actualizando y mejorando este repositorio.<br>
+  Vuelve pronto para ver la nueva versión.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Mantenimiento en progreso" />
+</p>
 ```js
 import React from 'react'
 import { useState } from 'react'
